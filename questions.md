@@ -44,6 +44,6 @@ What does history show us in Git?
 
 ## Question 7
 
-Why does we commit a message?
+Why do we commit a message?
 
 <!-- Answer the question under this comment -->
