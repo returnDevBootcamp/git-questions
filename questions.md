@@ -4,46 +4,48 @@
 
 What are some of the problems that git solves?
 
-<!-- Answer the question under this comment -->
+<!-- 1.in uu code kaagu aanu kaa lumin
+    2. in la ogaan karo waxaad aad ka badashay code ka
+    3. in aad dib ugu noqon kartid version kii hore ee aad soo samaysay -->
 
 
 ## Question 2
 
 What does clone do?
 
-<!-- Answer the question under this comment -->
+<!-- Copy or download -->
 
 
 ## Question 3
 
 What does commit do?
 
-<!-- Answer the question under this comment -->
+<!-- Save -->
 
 
 ## Question 4
 
 What does forking do?
 
-<!-- Answer the question under this comment -->
+<!-- waxa weeye in changes aad ku samaysay code ka aad dhigto in your profile -->
 
 
 ## Question 5
 
 Why is a pull request necessary?
 
-<!-- Answer the question under this comment -->
+<!-- si loo arko code kaaga wixii aad ka badashayna loo wada arki kari loona soo comment garayn karo-->
 
 
 ## Question 6
 
 What does history show us in Git?
 
-<!-- Answer the question under this comment -->
+<!-- shows us how many changes we did in our code -->
 
 
 ## Question 7
 
 Why do we commit a message?
 
-<!-- Answer the question under this comment -->
+<!-- si aynu ula wadaagno wixii fikir ah ama su'aalo ah ee aynu ka qabno code-ka uu qof kale wax kasoo badalay -->
