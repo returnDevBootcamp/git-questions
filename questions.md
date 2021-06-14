@@ -4,46 +4,46 @@
 
 What are some of the problems that git solves?
 
-<!-- Answer the question under this comment -->
+<!-- Storing the version and monitoring the code changes -->
 
 
 ## Question 2
 
-What does clone do?
+What does clone do? 
 
-<!-- Answer the question under this comment -->
+<!--It is used to download and create a new copy. -->
 
 
 ## Question 3
 
 What does commit do?
 
-<!-- Answer the question under this comment -->
+<!-- To save the work by the local. -->
 
 
 ## Question 4
 
 What does forking do?
 
-<!-- Answer the question under this comment -->
+<!-- Is used to send the work in your own Github. -->
 
 
 ## Question 5
 
 Why is a pull request necessary?
 
-<!-- Answer the question under this comment -->
+<!-- Because they help ensure that quality reviewed code is merged into GitHub repositories.  -->
 
 
 ## Question 6
 
 What does history show us in Git?
 
-<!-- Answer the question under this comment -->
+<!--It show us all the changes made to the code -->
 
 
 ## Question 7
 
 Why do we commit a message?
 
-<!-- Answer the question under this comment -->
+<!-- To find out where we are going and to find out later what we have done. ->
