@@ -41,7 +41,7 @@ Concise pull requests allow for developers to efficiently review and quickly mer
 What does history show us in Git?
 
 <!-- Answer the question under this comment -->
-h
+
 
 ## Question 7
 
