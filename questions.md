@@ -18,7 +18,7 @@ copy the files
 
 What does commit do?
 
-save the changes
+save all the changes
 
 
 ## Question 4
