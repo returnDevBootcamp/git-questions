@@ -4,46 +4,46 @@
 
 What are some of the problems that git solves?
 
-<!-- Answer the question under this comment -->
+ helps us to share data 
 
 
 ## Question 2
 
 What does clone do?
 
-<!-- Answer the question under this comment -->
+ download 
 
 
 ## Question 3
 
 What does commit do?
 
-<!-- Answer the question under this comment -->
+ save 
 
 
 ## Question 4
 
 What does forking do?
 
-<!-- Answer the question under this comment -->
+producing a personal copy of someone else's project 
 
 
 ## Question 5
 
 Why is a pull request necessary?
 
-<!-- Answer the question under this comment -->
+ let you tell others about changes you've pushed
 
 
 ## Question 6
 
 What does history show us in Git?
 
-<!-- Answer the question under this comment -->
+You can see details about any commit in GitHub Desktop
 
 
 ## Question 7
 
 Why do we commit a message?
 
-<!-- Answer the question under this comment -->
+because saves changes to a local repository  
